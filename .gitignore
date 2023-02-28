@@ -128,6 +128,7 @@ nosetests.xml
 # NPM/yarn's runtime files
 node_modules/
 npm-debug.log
+.npmrc
 yarn-error.log
 .npm/
 .npm-debug.log
